@@ -1,0 +1,644 @@
+{
+  "parent": {
+    "type": "page_id",
+    "page_id": "PLACEHOLDER_PAGE_ID"
+  },
+  "title": "PCI DSS Assessment Artifact Tracker",
+  "properties": {
+    "File Name": {
+      "type": "title"
+    },
+    "Folder": {
+      "type": "select",
+      "options": [
+        "06_Post_Assessment",
+        "02_Evidence_Collection",
+        "01_Scoping_and_PreAssessment",
+        "templates",
+        "03_Assessment_Artifacts",
+        "04_Reporting_and_Analysis",
+        "05_Final_Deliverables",
+        "docs",
+        "00_Sales_and_Contracts",
+        ".",
+        "_Archive"
+      ]
+    },
+    "Control Family": {
+      "type": "text"
+    },
+    "PCI Requirements": {
+      "type": "multi_select"
+    },
+    "Audience": {
+      "type": "select"
+    },
+    "Status": {
+      "type": "select",
+      "options": [
+        "Draft",
+        "Final",
+        "Client-Ready"
+      ]
+    },
+    "Updated": {
+      "type": "date"
+    }
+  },
+  "data": [
+    {
+      "File Name": "README.md",
+      "Folder": ".",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "engagement-log.md",
+      "Folder": ".",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "00_Sales_and_Contracts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "00_Sales_and_Contracts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "00_Sales_and_Contracts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "00_Sales_and_Contracts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "00_Sales_and_Contracts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "01_Scoping_and_PreAssessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "01_Scoping_and_PreAssessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "01_Scoping_and_PreAssessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "01_Scoping_and_PreAssessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "01_Scoping_and_PreAssessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "01_Scoping_and_PreAssessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "02_Evidence_Collection",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "02_Evidence_Collection",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "02_Evidence_Collection",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "02_Evidence_Collection",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "02_Evidence_Collection",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "03_Assessment_Artifacts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "03_Assessment_Artifacts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "03_Assessment_Artifacts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "03_Assessment_Artifacts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "03_Assessment_Artifacts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "03_Assessment_Artifacts",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "04_Reporting_and_Analysis",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "04_Reporting_and_Analysis",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "04_Reporting_and_Analysis",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "04_Reporting_and_Analysis",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "04_Reporting_and_Analysis",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "05_Final_Deliverables",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "05_Final_Deliverables",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "05_Final_Deliverables",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "05_Final_Deliverables",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "05_Final_Deliverables",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "06_Post_Assessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "06_Post_Assessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "06_Post_Assessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "06_Post_Assessment",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "_Archive",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "_Archive",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "README.md",
+      "Folder": "_Archive",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "engagement-lifecycle-overview.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "internal-assessment-SOP.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "pci-assessor-role-checklist.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "client-onboarding-template.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "evidence-handling-guidelines.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "document-versioning-policy.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "fieldguide-sync-log.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "roc-edit-log.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "frequently-asked-questions.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "glossary-of-pci-terms.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "common-pitfalls-to-avoid.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "custom-control-justification-template.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "what-happens-after-delivery.md",
+      "Folder": "docs",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "gap-report-template.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "roc-narrative-template.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "client-srm-template.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "scoping-summary-template.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "evidence-request-list.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "readiness-checklist.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "weekly-status-update.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "interview-template.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "welcome-kit-for-assessment.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "how-to-provide-evidence.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "vanta-evidence-export-guide.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    },
+    {
+      "File Name": "client-shared-folder-instructions.md",
+      "Folder": "templates",
+      "Control Family": "",
+      "PCI Requirements": [],
+      "Audience": "",
+      "Status": "Draft",
+      "Updated": "2025-04-17"
+    }
+  ]
+}
