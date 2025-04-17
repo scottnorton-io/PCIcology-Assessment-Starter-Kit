@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Implement Open Evidence API schema",
+    "body": "Use `evidence-schema.json` to define and validate external evidence formats from platforms like Vanta or Fieldguide.",
+    "labels": [
+      "v3.1.0",
+      "api",
+      "enhancement"
+    ]
+  },
+  {
+    "title": "Build Evidence Auto-Labeler (Python)",
+    "body": "Develop the script located in `tools/evidence-auto-labeler/labeler.py` to classify and tag uploaded files automatically.",
+    "labels": [
+      "v3.1.0",
+      "tooling",
+      "python"
+    ]
+  },
+  {
+    "title": "Develop SAQ-A Template Kit",
+    "body": "Deliver editable SAQ-A assessment packages with mapped templates and folder hierarchy.",
+    "labels": [
+      "v3.1.0",
+      "templates",
+      "SAQ"
+    ]
+  },
+  {
+    "title": "Develop SAQ-D Template Kit",
+    "body": "Deliver editable SAQ-D assessment packages with mapped templates and folder hierarchy.",
+    "labels": [
+      "v3.1.0",
+      "templates",
+      "SAQ"
+    ]
+  },
+  {
+    "title": "Create Notion Workspace Kit",
+    "body": "Use the contents in `notion-template-kit/` to create a usable Notion assessment starter.",
+    "labels": [
+      "v3.1.0",
+      "notion",
+      "integration"
+    ]
+  },
+  {
+    "title": "Design Starter CLI Tool",
+    "body": "Enable teams to scaffold new PCI assessments with a command-line interface tool based on repo metadata.",
+    "labels": [
+      "v3.1.0",
+      "cli",
+      "tooling"
+    ]
+  }
+]
