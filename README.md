@@ -14,4 +14,3 @@ This is a starter folder structure for managing client assessments through their
 - **_Archive**: Legacy or outdated materials.
 
 Each subfolder contains a README.md to help clarify its intended use.
-# PCIcology-Assessment-Starter-Kit
