@@ -30,3 +30,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+import hashlib
+
+def compute_file_hash(file_path):
+    hash_fn = hashlib.sha256()
+    with open(file_path, "rb") as f:
+        while chunk := f.read(8192):
+            hash_fn.update(chunk)
+    return hash_fn.hexdigest()
+
+def validate_attachment_hash(file_path, expected_hash):
+    actual = compute_file_hash(file_path)
+    return actual == expected_hash
