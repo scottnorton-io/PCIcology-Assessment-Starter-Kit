@@ -1,0 +1,19 @@
+{
+  "id": "evt001",
+  "requirement": "3.2.1",
+  "control_family": "Access Control",
+  "description": "Admin login audit log from production system.",
+  "source": "Splunk",
+  "timestamp": "2025-04-18T15:42:00Z",
+  "tags": [
+    "access",
+    "admin",
+    "audit"
+  ],
+  "attachments": [
+    {
+      "filename": "splunk-log-snippet.png",
+      "url": "https://example.com/log.png"
+    }
+  ]
+}
