@@ -1,6 +1,8 @@
 # PCI DSS Client Assessment Folder Structure
 
 
+![CLI Included](https://img.shields.io/badge/Starter%20CLI-Included-brightgreen?style=flat-square)
+
 ## 📊 GitHub Status Badges
 
 | Workflow | Status |
