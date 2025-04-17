@@ -1,5 +1,13 @@
 # PCI DSS Client Assessment Folder Structure
 
+
+## 📊 GitHub Status Badges
+
+| Workflow | Status |
+|----------|--------|
+| Evidence Validation | ![Validate Evidence](https://github.com/scottnorton-io/PCIcology-Assessment-Starter-Kit/actions/workflows/validate-evidence.yml/badge.svg) |
+| Auto Labeling | ![Auto Label](https://github.com/scottnorton-io/PCIcology-Assessment-Starter-Kit/actions/workflows/auto-label.yml/badge.svg) |
+
 This is a starter folder structure for managing client assessments through their full lifecycle.
 
 ## Top-Level Folders

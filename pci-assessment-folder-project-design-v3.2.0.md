@@ -55,3 +55,13 @@ GitHub Actions now perform:
 - Mapping tool to convert schema into required ROC narrative
 - Integration with compliance platforms (Vanta, Fieldguide)
 
+---
+
+## 🚀 Release and Package Cadence
+
+| Cycle | GitHub Release | GitHub Package |
+|-------|----------------|----------------|
+| Major (`vX.0.0`) | ✅ Yes – full public announcement and GitHub Release | Optional |
+| Minor (`vX.Y.0`) | ✅ Yes – tag and GitHub Release | Optional |
+| Patch (`vX.Y.Z`) | Optional – tag only | ❌ Not required unless binary/tooling provided |
+| Toolkit CLI or Scripts | Optional | ✅ GitHub Package (if distributed as pip/npm tool) |
